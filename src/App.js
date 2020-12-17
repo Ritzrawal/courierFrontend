@@ -4,12 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">  
-        <p>
-    Hello new Server 
-        </p>
-      
-      </header>
+     <p>Hello AWS accounts </p>
     </div>
   );
 }
